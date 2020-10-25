@@ -2,7 +2,7 @@
 #Assignment 0.1
 
 male_sex = True
-age = 21
+age = 42
 
 if male_sex and age < 30:
         print("you're still young, alfa.")
