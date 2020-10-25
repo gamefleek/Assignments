@@ -9,4 +9,4 @@ if male_sex and age < 30:
 if male_sex and age > 30:
         print("you're pretty strong, alfa.")
 if not male_sex:
-    print("Welcome Teta.")
+    print("Dry Martini.")
